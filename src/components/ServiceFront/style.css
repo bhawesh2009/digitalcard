@@ -1,0 +1,43 @@
+/* <--- ServiceFront Style ---> */
+.service-front {
+  background-color: #20496b;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #3ADCE2;
+  min-height: 137px;
+  padding: 10px 5px;
+  margin-bottom: 20px;
+  text-align: center;
+  transition: all 0.4s ease;
+  position: relative;
+}
+
+.service-front:hover {
+  box-shadow: 0 0 20px rgb(58, 220, 226,.65)
+}
+
+.service-front .icon {
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+  display: block;
+  margin: 0 auto 20px;
+  text-align: center;
+  transition: all 0.4s ease;
+  position: relative;
+}
+
+.service-front .icon i {
+  font-size: 40px;
+  line-height: 60px;
+  transition: all 0.4s ease;
+  position: relative;
+}
+
+.service-front h4 {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: capitalize;
+  transition: all 0.4s ease;
+  position: relative;
+}

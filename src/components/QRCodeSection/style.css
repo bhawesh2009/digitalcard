@@ -1,0 +1,46 @@
+/* <--- QRCodeSection Style ---> */
+.qr-code {
+    background-color: #0f365b;
+    position: relative;
+  }
+  
+  .qr-code-box {
+    background-color: #20496b;
+    border-radius: 10px;
+    padding: 20px 15px;
+  }
+  
+  .box-web {
+    border-bottom: 2px solid #0f365b;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+  }
+  
+  .box-web i {
+    display: inline-block;
+    font-size: 20px;
+    color: #3adce2;
+    height: 100%;
+    margin-right: 10px;
+    position: relative;
+    left: 0;
+  }
+  
+  .box-web p {
+    font-size: 16px;
+    font-weight: 500;
+    display: inline-block;
+    color: #e8e8e8;
+    letter-spacing: 1px;
+  }
+  
+  .box-qr {
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .box-qr img {
+    border: 0;
+    border-radius: 5px;
+    width: 100%;
+  }

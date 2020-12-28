@@ -1,0 +1,25 @@
+/* <--- Section Style ---> */
+.section {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    width: 100%;
+    padding: 30px 20px;
+    position: relative;
+  }
+  
+.title-section {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+  }
+  
+.text-section {
+    color: #4f89a6;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px 0 20px 0;
+    text-transform: capitalize;
+  }
+  

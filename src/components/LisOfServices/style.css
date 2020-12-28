@@ -1,0 +1,6 @@
+/* <--- ListOfServices Style ---> */
+.list-of-services {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }

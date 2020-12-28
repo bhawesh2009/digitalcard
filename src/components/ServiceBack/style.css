@@ -1,0 +1,35 @@
+/* <--- ServiceBack Style ---> */
+
+.service-back {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #3ADCE2;
+  box-shadow: 0 0 20px rgb(58, 220, 226,.65);
+  border-radius: 5px;
+  color: #0f365b;
+  cursor: pointer;
+  text-align: center;
+  min-height: 137px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  transition: all 0.4s ease;
+  position: relative;
+}
+
+.service-back h4 {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: capitalize;
+  transition: all 0.4s ease;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.service-back p {
+  color: #20496B;
+  font-size: 15px;
+  font-weight: 400;
+  position: relative;
+}

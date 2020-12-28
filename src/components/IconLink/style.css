@@ -1,0 +1,22 @@
+/* <--- IconLink Style ---> */
+.icon-link {
+  color: #20496b;
+  border-radius: 50%;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  margin: 0 5px;
+  line-height: 40px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.icon-link:hover {
+  color: #4eedc4;
+  background-color: #356484;
+}
+
+.icon-link > i {
+  transition: all 0.3s ease;
+}

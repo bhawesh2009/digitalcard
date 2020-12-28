@@ -1,0 +1,49 @@
+/* <--- LocationSection Style ---> */
+.location {
+    background-color: #20496b;
+    position: relative;
+  }
+  
+  .location-box {
+    background-color: #0f365b;
+    border-radius: 10px;
+    padding: 20px 15px;
+    position: relative;
+  }
+  
+  .box-info {
+    border-bottom: 2px solid #20496b;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+  }
+  
+  .box-info i {
+    display: inline-block;
+    font-size: 20px;
+    color: #3adce2;
+    height: 100%;
+    margin-right: 10px;
+    position: relative;
+    left: 0;
+  }
+  
+  .box-info p {
+    font-size: 16px;
+    font-weight: 500;
+    display: inline-block;
+    color: #e8e8e8;
+  }
+  
+  .box-map {
+    border-radius: 5px;
+    height: 350px;
+  }
+  
+  .iframe-map {
+    border: 0;
+    border-radius: 5px;
+    width: 100%!important;
+    margin:0!important;
+    height: 100%!important;
+  }
+  

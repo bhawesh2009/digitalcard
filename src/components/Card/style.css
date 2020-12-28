@@ -1,0 +1,11 @@
+/* <--- Card Style ---> */
+.card {
+  background-color: #fff;
+  border-radius: 18px;
+  box-shadow: 1px 1px 35px 12px rgba(0, 0, 0, 0.2);
+  max-width: 320px;
+  min-height: 100vh;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+}
