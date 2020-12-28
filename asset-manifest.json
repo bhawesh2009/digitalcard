@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/digitalcard/static/css/main.ed761e14.chunk.css",
+    "main.js": "/digitalcard/static/js/main.20855145.chunk.js",
+    "main.js.map": "/digitalcard/static/js/main.20855145.chunk.js.map",
+    "runtime-main.js": "/digitalcard/static/js/runtime-main.52ef3cc3.js",
+    "runtime-main.js.map": "/digitalcard/static/js/runtime-main.52ef3cc3.js.map",
+    "static/js/2.a64613d0.chunk.js": "/digitalcard/static/js/2.a64613d0.chunk.js",
+    "static/js/2.a64613d0.chunk.js.map": "/digitalcard/static/js/2.a64613d0.chunk.js.map",
+    "static/js/3.89c91e6c.chunk.js": "/digitalcard/static/js/3.89c91e6c.chunk.js",
+    "static/js/3.89c91e6c.chunk.js.map": "/digitalcard/static/js/3.89c91e6c.chunk.js.map",
+    "index.html": "/digitalcard/index.html",
+    "static/css/main.ed761e14.chunk.css.map": "/digitalcard/static/css/main.ed761e14.chunk.css.map",
+    "static/js/2.a64613d0.chunk.js.LICENSE.txt": "/digitalcard/static/js/2.a64613d0.chunk.js.LICENSE.txt",
+    "static/media/arrow_right.ed061540.svg": "/digitalcard/static/media/arrow_right.ed061540.svg",
+    "static/media/arrow_top.543277ad.svg": "/digitalcard/static/media/arrow_top.543277ad.svg",
+    "static/media/email.900f685e.svg": "/digitalcard/static/media/email.900f685e.svg",
+    "static/media/messenger.f309ce5e.svg": "/digitalcard/static/media/messenger.f309ce5e.svg",
+    "static/media/qrcode.57300e7a.svg": "/digitalcard/static/media/qrcode.57300e7a.svg",
+    "static/media/whatsapp.4dc47624.svg": "/digitalcard/static/media/whatsapp.4dc47624.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52ef3cc3.js",
+    "static/js/2.a64613d0.chunk.js",
+    "static/css/main.ed761e14.chunk.css",
+    "static/js/main.20855145.chunk.js"
+  ]
+}
