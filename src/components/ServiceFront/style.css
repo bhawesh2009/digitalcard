@@ -1,9 +1,9 @@
 /* <--- ServiceFront Style ---> */
 .service-front {
-  background-color: #20496b;
+  background-color: gold;
   border-radius: 10px;
   cursor: pointer;
-  color: #3ADCE2;
+  color:darksilver;
   min-height: 137px;
   padding: 10px 5px;
   margin-bottom: 20px;
@@ -13,7 +13,7 @@
 }
 
 .service-front:hover {
-  box-shadow: 0 0 20px rgb(58, 220, 226,.65)
+  box-shadow: 0 0 20px gold
 }
 
 .service-front .icon {
@@ -41,3 +41,4 @@
   transition: all 0.4s ease;
   position: relative;
 }
+ 

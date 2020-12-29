@@ -1,18 +1,18 @@
 /* <--- LocationSection Style ---> */
 .location {
-    background-color: #20496b;
+    background-color: gold;
     position: relative;
   }
   
   .location-box {
-    background-color: #0f365b;
+    background-color: gold;
     border-radius: 10px;
     padding: 20px 15px;
     position: relative;
   }
   
   .box-info {
-    border-bottom: 2px solid #20496b;
+    border-bottom: 2px solid silver;
     margin-bottom: 15px;
     padding-bottom: 10px;
   }
@@ -20,7 +20,7 @@
   .box-info i {
     display: inline-block;
     font-size: 20px;
-    color: #3adce2;
+    color: blakc;
     height: 100%;
     margin-right: 10px;
     position: relative;
@@ -31,7 +31,7 @@
     font-size: 16px;
     font-weight: 500;
     display: inline-block;
-    color: #e8e8e8;
+    color: black;
   }
   
   .box-map {

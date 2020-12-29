@@ -5,7 +5,7 @@ export default function CardFooter() {
     return (
         <section className='card-footer'>
             <img
-                src='https://media.giphy.com/media/l3vRnoppYtfEbemBO/giphy.gif'
+                src='https://media.giphy.com/media/VfjEHoNY0IMAE/giphy.gif'
                 alt='footer_img'
             />
             <div className='copyright-text'>

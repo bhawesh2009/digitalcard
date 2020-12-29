@@ -5,8 +5,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #3ADCE2;
-  box-shadow: 0 0 20px rgb(58, 220, 226,.65);
+  background-color:rgb(248, 212, 6);
+  box-shadow: 0 0 20px rgb(248, 212, 6);
   border-radius: 5px;
   color: #0f365b;
   cursor: pointer;
@@ -32,4 +32,9 @@
   font-size: 15px;
   font-weight: 400;
   position: relative;
+}
+.service-back img {
+         top:5px;
+         position: relative;
+
 }

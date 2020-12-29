@@ -1,20 +1,25 @@
 import React from 'react'
 import IconLink from '../IconLink'
 import './style.css'
-
+import FacebookIcon from '@material-ui/icons/Facebook';
+import YouTubeIcon from '@material-ui/icons/YouTube';
+import InstagramIcon from '@material-ui/icons/Instagram';
+import TwitterIcon from '@material-ui/icons/Twitter';
 export default function SocialLinks() {
     return (
         <div className='social-links'>
-                    <IconLink
-                        link='https://www.facebook.com/joseluis.bravocardenas'
-                        iconClass='fab fa-facebook-f'
-                    />
-                    <IconLink
-                        link='https://community-cyber-space.vercel.app/'
-                        iconClass='fas fa-globe'
-                    />
-                    <IconLink link='#' iconClass='fab fa-twitter' />
-                    <IconLink link='#' iconClass='fab fa-linkedin-in' />
-                </div>
+          
+          <div className="div">
+          
+           <FacebookIcon id="Icons1"/>         
+           <YouTubeIcon id="Icons2"  /> 
+           <InstagramIcon id="Icons3"/>
+           <TwitterIcon id="Icons4"/>        
+           </div>     
+    
+    
+     </div>
+    
+    
     )
 }

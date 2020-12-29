@@ -1,6 +1,6 @@
 /* <--- IconLink Style ---> */
 .icon-link {
-  color: #20496b;
+  color:silver;
   border-radius: 50%;
   display: inline-block;
   width: 40px;
@@ -13,8 +13,8 @@
 }
 
 .icon-link:hover {
-  color: #4eedc4;
-  background-color: #356484;
+  color: black;
+  background-color: gold;
 }
 
 .icon-link > i {

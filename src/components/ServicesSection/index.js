@@ -5,8 +5,8 @@ import './style.css'
 
 export default function ServicesSection () {
     const [state, setstate] = useState({
-        title: 'Marble And Granite',
-        text: 'We all provide all type marble and grantie',
+        title: 'Alankar Jewelers',
+        text: 'We provid all type jewells Itme',
         styles:'services'
     });
     return (

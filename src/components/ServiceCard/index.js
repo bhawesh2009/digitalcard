@@ -2,33 +2,40 @@ import React, { useEffect, useState } from 'react'
 import ReactCardFlip from 'react-card-flip'
 import ServiceFront from '../ServiceFront'
 import ServiceBack from '../ServiceBack'
+import jewellery1 from '../../img/jewellery1.jpg'
 
-export default function ServiceCard({ type }) {
+export default function ServiceCard({ type, imag }) {
     useEffect(() => {
         handleContent()
     }, [])
     const [service, setService] = useState({
-        title: 'Bhawesh paliwal',
-        icon: 'fas fa-handshake',
+        title: 'Alankar Jewellers',
+        icon: 'fas fa-handshake0',
+        
         text:
-            'Hello my name is Bhawesh Paliwal and How r you'
+            'we are the group of jewels',
+          
+            
+      
     })
 
     const handleContent = () => {
         if (type === 'cursos') {
             setService({
-                title: 'Bhawesh Paliwal',
+                title: 'Alankar Jewellers',
                 icon: 'fas fa-chalkboard-teacher',
                 text:
-                    'I am delar of marble and granite '
+                    'all type of jewellery available ',
+                imag:{jewellery1},   
+                   
             })
         }
         if (type === 'soporte') {
             setService({
-                title: 'Main Delar of marble and granite',
+                title: 'Alankar Jewellers',
                 icon: 'fas fa-tools',
                 text:
-                    'All type marble and granite is avalible'
+                    'Please visit our show room one time'
             })
         }
     }
@@ -44,11 +51,14 @@ export default function ServiceCard({ type }) {
                 click={handleClick}
                 title={service.title}
                 icon={service.icon}
+                
             />
             <ServiceBack
                 click={handleClick}
                 title={service.title}
                 text={service.text}
+                imag={service.imag}
+                
             />
         </ReactCardFlip>
     )

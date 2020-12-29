@@ -7,9 +7,9 @@
 
 .profile-img {
     /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); */
-    background-color: #141837;
+    background-color: gold;
     background-size: cover;
-    border: 8px solid #fff;
+    border: 8px solid gold;
     border-radius: 50%;
     width: 160px;
     height: 160px;
@@ -27,7 +27,7 @@
 }
 
 .profile h1 {
-    color: #20496b;
+    color: black;
     font-size: 30px;
     font-weight: 400;
     position: relative;
@@ -35,7 +35,7 @@
 }
 
 .profile h2 {
-    color: #4f89a6;
+    color: black;
     font-weight: 400;
     font-size: 15px;
     position: relative;
@@ -43,7 +43,7 @@
 }
 
 .profile p {
-    color: #20496b;
+    color: black;
     font-weight: 500;
     font-size: 16px;
     position: relative;
